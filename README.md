@@ -55,8 +55,16 @@ In our Spring Boot project, we’ll harness the power of GraphQL. By combining i
 
 <img width="249" alt="image" src="https://github.com/user-attachments/assets/a9d57fa9-f91c-4aa1-a01b-b65f81326afa">
 
-
-
+**Scalar**<br/>
+- In GraphQL, a scalar is a fundamental data type representing a single value.
+- Scalars are the building blocks used to define the shape and structure of data within the GraphQL schema.
+- Unlike object types, which can have multiple fields, scalars can hold only one value at a time.
+- GraphQL comes with a set of default scalar types, including:
+  - Int
+  - Float
+  - String
+  - Boolean
+  - ID
 
 
 
