@@ -1,14 +1,14 @@
 # GraphQL
-GraphQL is a data query and manipulation language for APIs that allows a client to specify what data it needs. 
-A GraphQL server can fetch data from separate sources for a single client query and present the results in a unified graph. 
-It is not tied to any specific database or storage engine.
+- GraphQL is a data query and manipulation language for APIs that allows a client to specify what data it needs.
+- A GraphQL server can fetch data from separate sources for a single client query and present the results in a unified graph.
+- It is not tied to any specific database or storage engine.
+- GraphQL addresses the drawbacks of regular REST APIs by allowing us to pinpoint the exact data we need, avoiding the hassles of getting too much or too little.
+- It’s all about efficiency and delivering just what’s necessary.
+- In our Spring Boot project, we’ll harness the power of GraphQL.
+- By combining GraphQL with Spring Boot, we’ll create an intuitive and seamless integration.
+- We’ll begin by crafting a GraphQL schema — a masterpiece that defines data types and governs queries and mutations.
+- We’ll use GraphQL Schema Definition Language (SDL) to orchestrate this process.
 
-It tackles the drawbacks of regular REST APIs. With GraphQL, we can pinpoint the exact data we need, 
-avoiding the hassles of getting too much or too little. 
-
-It’s all about efficiency and delivering just what’s necessary.
-
-In our Spring Boot project, we’ll harness the power of GraphQL. By combining it with Spring Boot, we’ll create an intuitive and seamless integration. We’ll begin by crafting a GraphQL schema — a masterpiece that defines data types and governs queries and mutations. We’ll use GraphQL Schema Definition Language (SDL) to orchestrate this process.
 
 **Key terms in GraphQL**
 <br/><br/>
